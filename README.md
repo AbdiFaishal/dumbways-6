@@ -1,4 +1,4 @@
-# dumbways-6
+# Dumbways Kloter 6
 Yang belum selesai hanya soal no2, lainnya sudah selesai
 
 Stack/bahasa yang digunakan : 
